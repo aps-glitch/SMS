@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sms</string>
+    <string name="phonenum">Phone Number</string>
+    <string name="enter_message">Enter Message</string>
+    <string name="send_sms">Send sms</string>
+    <string name="message">Message</string>
+    <string name="title">Title</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="button">button</string>
+</resources>
